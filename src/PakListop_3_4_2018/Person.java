@@ -1,12 +1,12 @@
 package PakListop_3_4_2018;
 
-public class Osoba implements Comparable<Osoba> {
+public class Person implements Comparable<Person> {
 
     public String name;
     public String surname;
     public Integer age;
 
-    public Osoba(String name, String surname, Integer age) {
+    public Person(String name, String surname, Integer age) {
         this.name = name;
         this.surname = surname;
         this.age = age;
@@ -36,8 +36,16 @@ public class Osoba implements Comparable<Osoba> {
         this.age = age;
     }
 
+   // @Override
+ //   public boolean equals(Object obj) {
+    //    if(obj instanceof Person){
+       //     return
+       // }
+      // return super.equals(obj);
+   // }
+
     @Override
-    public int compareTo(Osoba o) {
+    public int compareTo(Person o) {
         if (this.age > o.getAge()) {
             return 1;
         } else if (this.age < o.getAge()) {

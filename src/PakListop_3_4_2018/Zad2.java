@@ -38,6 +38,7 @@ public class Zad2 {
                 }
             });
 
+
             List<String> lines = emplList.stream()
                     .map(e -> e.getName() + ";" + e.getSurname() + ";" +
                             e.getPosition() + ";" + e.getId())
