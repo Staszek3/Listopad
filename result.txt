@@ -1,0 +1,4 @@
+Edek;Baran;Kadry;1
+Magda;Kowalska;Pisarz;2
+Kazimierz;Solski;Stolarz;3
+Ela;Nowak;Kadry;4
