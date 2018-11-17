@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf5e6a39-50b7-428e-8ff7-0540210bb8c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PakListop_3_4_2018/MergeSorte.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/List3_4_2018/PakListop_3_4_2018/Osoba.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/List3_4_2018/PakListop_3_4_2018/Zad2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/List3_4_2018/PakListop_3_4_2018/Zad2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PakListop_3_4_2018/BombleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PakListop_3_4_2018/BombleSort.java" afterDir="false" />
-    </list>
+    <list default="true" id="bf5e6a39-50b7-428e-8ff7-0540210bb8c0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +13,7 @@
     <session id="1510340661">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="2" />
@@ -208,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="54" />
     <option name="y" value="47" />
     <option name="width" value="1155" />
@@ -368,8 +362,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="47" width="1155" height="770" extended-state="1" />
-    <editor active="true" />
+    <frame x="54" y="47" width="1155" height="770" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16986302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -378,7 +371,7 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32520324" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32520324" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
